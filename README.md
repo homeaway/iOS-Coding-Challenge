@@ -6,13 +6,15 @@ Help us understand how you think about building great software.
 
 Write a type ahead against the Seat Geek API. The type ahead should update a list of results as the search query changes. Results can be tapped to view them on a details screen. On the details screen the result can be favorited. On the type ahead screen, results matching the favorites list should show a visual indication that they are favorited.
 
-To summarize
+#### Requirements
 
 1. Write a type ahead against the Seat Geek API
 2. Make a detail screen so the user can drill down into a result
 3. The detail screen should allow the user to favorite/unfavorite the event
 4. Type ahead results should reflect the favorited state of each event
-5. Favorited results should be saved between launches of the app 
+5. Favorited results should be saved between launches of the app
+6. Include instructions for building the application and any relevant documentation in a README.md file
+7. Please post your submission on Github, Bitbucket or Gitlab
 
 The two screens can look similar to these:
 
