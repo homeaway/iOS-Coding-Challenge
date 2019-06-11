@@ -34,8 +34,6 @@ The coding challenge will be judged on
 
 Please write your code in Swift. Feel free to take advantage of third-party, open source libraries.
 
-An adequate solution might be developed within 4 - 8 hours, but please spend however much time it takes to construct a great solution. 
-
 #### API Information 
 
 The endpoint to use on Seat Geek is free and publicly accessible, but you will need to register for a Seat Geek account and obtain an API key to use it. Details can be found at http://platform.seatgeek.com/
