@@ -30,7 +30,7 @@ The coding challenge will be judged on
 1. Attention to detail
 1. Architectural choices
 1. Testability
-1. Knowledge of iOS libraries and SDKs 
+1. Understanding of iOS libraries and SDKs 
 
 Please write your code in Swift. Feel free to take advantage of third-party, open source libraries.
 
